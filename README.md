@@ -1,5 +1,3 @@
-Want to test something
-
 Next Step: https://angular.io/docs/ts/latest/tutorial/toh-pt2.html
 
 ## Code scaffolding
