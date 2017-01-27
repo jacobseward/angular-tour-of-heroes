@@ -1,4 +1,4 @@
-Just trudging through the tutorial
+Next Step: https://angular.io/docs/ts/latest/tutorial/toh-pt2.html
 
 ## Code scaffolding
 
